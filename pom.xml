@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.fuchss.</groupId>
+	<groupId>org.fuchss</groupId>
 	<artifactId>rekit-sample-mod</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>A sample mod for RεKiT</name>
@@ -23,7 +23,8 @@
 		<dependency>
 			<groupId>com.github.fuchss-dominik.rekit-game</groupId>
 			<artifactId>logic</artifactId>
-			<version>0.5.2-beta</version>
+			<version>develop-SNAPSHOT</version>
+			<!-- <version>0.5.2-beta</version> -->
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
