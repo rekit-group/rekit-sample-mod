@@ -33,4 +33,4 @@ E.g. using Maven:
 * Mark class for loading via `@LoadMe` (see [API-Docs](https://fuchss-dominik.github.io/rekit-game/))
 
 ## Step 3:
-That's it. Just compile your library and add it to the `mods` folder (Windows: `%APPDATA%/rekit`, Unix/Mac: `~/.config/rekit`). Write a nice level and add it to the `level` folder and enjoy the game.
+That's it. Just compile your library and add it to the `mods` folder (Windows: `%APPDATA%/rekit`, Unix/Mac: `~/.config/rekit`). Write a nice level and add it to the `levels` folder (the filename has to start with "level") and enjoy the game.

@@ -1,0 +1,24 @@
+#SETTING::name->Magic_Coins
+#SETTING::shuffle->false
+#SETTING::infinite->true
+#SETTING::doGaps->true
+
+#ALIAS::1->Inanimate
+#ALIAS::2->MagicCoin
+#BOSS_SETTING::AT50->RocketBoss
+
+{
+{1}
+{2}
+{2}
+{2}
+{2}
+}
+
+{
+{1 0}
+{2 1}
+{2 2}
+{2 1}
+{2 0}
+}
