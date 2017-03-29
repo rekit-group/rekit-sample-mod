@@ -2,6 +2,7 @@
 #SETTING::shuffle->false
 #SETTING::infinite->true
 #SETTING::doGaps->true
+#SETTING::group->Test_Group
 
 #ALIAS::1->Inanimate
 #ALIAS::2->MagicCoin
