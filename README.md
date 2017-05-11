@@ -22,7 +22,7 @@ E.g. using Maven:
   <dependency>
     <groupId>com.github.fuchss-dominik.rekit-game</groupId>
     <artifactId>logic</artifactId>
-    <version>0.6</version>
+    <version>1.0</version>
     <scope>provided</scope>
   </dependency>
 </dependencies>
