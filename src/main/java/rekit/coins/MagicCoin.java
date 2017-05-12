@@ -6,8 +6,8 @@ import rekit.primitives.image.RGBAColor;
 import rekit.util.ReflectUtils.LoadMe;
 
 /**
- * A new coin which has a value of 300.
- * 
+ * A new coin which has a value of [0,300].
+ *
  * @author Dominik Fuchss
  *
  */
@@ -50,13 +50,13 @@ public class MagicCoin extends Coin {
 	}
 
 	@Override
-	public Coin create(Vec startPos, String[] options) {
+	public Coin create(Vec startPos, String... options) {
 		return new MagicCoin(startPos);
 	}
 
 	@Override
 	protected int getValue() {
-		return 300;
+		return (int) (Math.random() * 300);
 	}
 
 }
