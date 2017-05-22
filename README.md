@@ -13,15 +13,15 @@ E.g. using Maven:
 
 ```xml
 <repositories>
-  <repository>
-    <id>jitpack.io</id>
-    <url>https://jitpack.io</url>
-  </repository>
+	<repository>
+		<id>maven-fuchss</id>
+		<url>https://raw.githubusercontent.com/fuchss-dominik/maven/master</url>
+	</repository>
 </repositories>
 <dependencies>
   <dependency>
-    <groupId>com.github.fuchss-dominik.rekit-game</groupId>
-    <artifactId>logic</artifactId>
+    <groupId>rekit</groupId>
+	<artifactId>logic</artifactId>
     <version>1.0</version>
     <scope>provided</scope>
   </dependency>
