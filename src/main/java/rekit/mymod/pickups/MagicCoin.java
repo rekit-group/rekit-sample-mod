@@ -1,4 +1,4 @@
-package rekit.coins;
+package rekit.mymod.pickups;
 
 import rekit.logic.gameelements.type.Coin;
 import rekit.primitives.geometry.Vec;
