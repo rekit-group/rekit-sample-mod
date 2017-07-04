@@ -5,7 +5,7 @@
 
 #ALIAS::1->Inanimate
 #ALIAS::2->MagicCoin
-#ALIAS::3->Bouncer
+#ALIAS::3->Pizza
 
 {
 {0 3 0}
