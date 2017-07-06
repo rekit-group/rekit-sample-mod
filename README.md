@@ -21,8 +21,8 @@ E.g. using Maven:
 <dependencies>
   <dependency>
     <groupId>rekit</groupId>
-	<artifactId>logic</artifactId>
-    <version>1.0</version>
+    <artifactId>logic</artifactId>
+    <version>1.1</version>
     <scope>provided</scope>
   </dependency>
 </dependencies>

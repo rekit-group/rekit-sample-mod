@@ -182,9 +182,9 @@ public final class Pizza extends Enemy implements Configurable {
 	}
 
 	@Override
-	public void collidedWith(Frame collision, Direction dir) {
+	public void collidedWithSolid(Frame collision, Direction dir) {
 		// standard behavior, that prevents clipping into other blocks
-		super.collidedWith(collision, dir);
+		super.collidedWithSolid(collision, dir);
 
 		// upward push
 		this.setVel(Pizza.JUMP_VELOCITY);
