@@ -22,7 +22,7 @@ E.g. using Maven:
   <dependency>
     <groupId>rekit</groupId>
     <artifactId>logic</artifactId>
-    <version>1.1</version>
+    <version>1.1.1</version>
     <scope>provided</scope>
   </dependency>
 </dependencies>
