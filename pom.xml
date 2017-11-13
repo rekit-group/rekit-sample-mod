@@ -16,7 +16,7 @@
 	<repositories>
 		<repository>
 			<id>maven-fuchss</id>
-			<url>https://raw.githubusercontent.com/fuchss-dominik/maven/master</url>
+			<url>https://raw.githubusercontent.com/dfuchss/maven/releases</url>
 		</repository>
 	</repositories>
 	<dependencies>
