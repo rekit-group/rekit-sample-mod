@@ -16,14 +16,14 @@
 	<repositories>
 		<repository>
 			<id>maven-fuchss</id>
-			<url>https://raw.githubusercontent.com/dfuchss/maven/releases</url>
+			<url>https://raw.githubusercontent.com/rekit-group/maven/releases</url>
 		</repository>
 	</repositories>
 	<dependencies>
 		<dependency>
 			<groupId>rekit</groupId>
 			<artifactId>logic</artifactId>
-			<version>1.1.1</version>
+			<version>1.1.2</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
