@@ -14,7 +14,7 @@ E.g. using Maven:
 ```xml
 <repositories>
 	<repository>
-		<id>maven-fuchss</id>
+		<id>maven-rekit</id>
 		<url>https://raw.githubusercontent.com/rekit-group/maven/releases</url>
 	</repository>
 </repositories>
