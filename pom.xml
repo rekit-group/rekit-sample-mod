@@ -15,7 +15,7 @@
 	</properties>
 	<repositories>
 		<repository>
-			<id>maven-fuchss</id>
+			<id>maven-rekit</id>
 			<url>https://raw.githubusercontent.com/rekit-group/maven/releases</url>
 		</repository>
 	</repositories>
@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>rekit</groupId>
 			<artifactId>logic</artifactId>
-			<version>1.2.0</version>
+			<version>1.2.1</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
