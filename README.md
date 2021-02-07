@@ -14,17 +14,18 @@ E.g. using Maven:
 ```xml
 <repositories>
 	<repository>
-		<id>maven-rekit</id>
-		<url>https://raw.githubusercontent.com/rekit-group/maven/releases</url>
+		<id>github</id>
+		<name>GitHub Apache Maven Packages</name>
+		<url>https://maven.pkg.github.com/rekit-group/rekit-game</url>
 	</repository>
 </repositories>
 <dependencies>
-  <dependency>
-    <groupId>rekit</groupId>
-    <artifactId>logic</artifactId>
-    <version>1.2.2</version>
-    <scope>provided</scope>
-  </dependency>
+	<dependency>
+		<groupId>rekit</groupId>
+		<artifactId>logic</artifactId>
+		<version>1.2.3-SNAPSHOT</version>
+		<scope>provided</scope>
+	</dependency>
 </dependencies>
 ```
 
