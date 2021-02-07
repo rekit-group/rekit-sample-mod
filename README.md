@@ -1,6 +1,6 @@
 # R&#949;​KiT-Sample-Mod
 
-[![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=square)](https://github.com/rekit-group/rekit-sample-mod/blob/master/LICENSE.md)
+[![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=square)](https://github.com/rekit-group/rekit-sample-mod/blob/main/LICENSE.md)
 
 [R&#949;​KiT](https://github.com/rekit-group/rekit-game) is a platform jumper game entirely written in Java with [AWT](https://docs.oracle.com/javase/8/docs/api/java/awt/package-summary.html).
 This project shall help to create addons for R&#949;KiT.
